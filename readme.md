@@ -4,14 +4,14 @@ _สาขาวิชาเทคโนโลยีสารสนเทศ_
 **คณะวิทยาศาสตร์**
 
 ### นายปุณณภพ แจ่มประโคน
-![นายปุณณภพ แจ่มประโคน](https://scontent.fbkk29-2.fna.fbcdn.net/v/t1.6435-9/128685515_2772055196381417_7405014966041415692_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=174925&_nc_eui2=AeFkL7g3kx2fetmzjWI7PQbCYGCLpVJI8GVgYIulUkjwZSyjTchbMJzwVfUA2pIWgoqEwZdHph6NFTbs2nu_mKfK&_nc_ohc=0mVEti37JsEAX-ybPbf&_nc_ht=scontent.fbkk29-2.fna&oh=e041f838cec6b002e86dfa5cc19c0d87&oe=61C20F79)
+![นายปุณณภพ แจ่มประโคน](https://scontent.fnak3-1.fna.fbcdn.net/v/t39.30808-6/242605852_2416187848525447_3090122091132222979_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeHgx4Jzjgl75CPG3ti1Q8a0AGj6Mh5bJtEAaPoyHlsm0WIiKY2xMFHYItJ3K7bj0CHiUE7MQ83TkmP-frYFi4js&_nc_ohc=Cd2J2rbMHb0AX9Y64lG&_nc_ht=scontent.fnak3-1.fna&oh=28144fd4b73ba3139c4ef46ed7458fd2&oe=61A4E25C)
 
 >รหัสนักศึกษา 610112418016
 
 ### Link LAB
-[LAB1](https://github.com/jokerkung2543/4134901-2-64-Version2/tree/master/LAB1)
-[LAB2](https://github.com/jokerkung2543/4134901-2-64-Version2/tree/master/LAB2)
-[LAB3](https://github.com/jokerkung2543/4134901-2-64-Version2/tree/master/LAB3)
+[LAB1](https://github.com/aodbom2/4134901-2-64v2/tree/main/LAB1)
+[LAB2](https://github.com/aodbom2/4134901-2-64v2/tree/main/LAB2)
+[LAB3]()
 
 ### RUN
 **LAB1**
